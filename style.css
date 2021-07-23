@@ -1,0 +1,53 @@
+font-family: 'Poppins',
+sans-serif;
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.form-group.has-search {
+    position: relative;
+}
+
+.form-group.has-search input {
+    border-radius: 66px;
+    background-color: #F1F1F1;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+    right: 0px;
+}
+
+.banner {
+    background: rgba(254, 234, 233, 1);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.product-content h1 {
+    color: rgba(31, 31, 31, 1);
+    font-family: 'Poppins', sans-serif;
+    font-size: ;
+}
+
+.product-button h3 span {
+    color: rgba(255, 19, 111, 1);
+    font-size: 30px;
+}
+
+.product-button a {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.shoes .card img {
+    height: 100%;
+    object-fit: contain;
+}
